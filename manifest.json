@@ -1,6 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Mini website blocker",
+  "description": "This extension blocks websites",
+  "author": "Raphael Burce",
   "version": "1.0",
   "permissions": ["activeTab", "tabs", "storage", "scripting"],
   "action": {
